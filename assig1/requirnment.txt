@@ -1,0 +1,9 @@
+npx create-expo-app assig1
+cd app assig1
+npm install react-native-linear-gradient
+npm install @react-navigation/native @react-navigation/stack
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npx expo install react-native-web@~0.19.6 react-dom@18.2.0
+npm install @react-navigation/native @react-navigation/native-stack
+expo install expo-linear-gradient
+
